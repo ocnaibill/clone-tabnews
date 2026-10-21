@@ -16,4 +16,3 @@ Depois suba os serviços e rode a aplicação:
 npm run services:up
 npm run dev
 ```
-
